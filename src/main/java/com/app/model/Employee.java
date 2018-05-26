@@ -7,7 +7,7 @@ public class Employee {
 	private double empSal;
 	public Employee() {
 		super();
-		System.out.println("edited");
+		
 	}
 	
 	public Employee(int empId, String empName, double empSal) {
