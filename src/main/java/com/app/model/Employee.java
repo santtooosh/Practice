@@ -6,7 +6,6 @@ public class Employee {
 	private String empName;
 	private double empSal;
 	public Employee() {
-		super();
 		
 	}
 	
